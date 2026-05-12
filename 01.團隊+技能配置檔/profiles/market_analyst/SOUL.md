@@ -3,6 +3,10 @@
 ## 可用的 Toolsets
 web, terminal, file, memory
 
+## 嚴格工作流程（務必遵守）
+1. 引用資料的建立時間不可和當下時間超過7天
+2. 引用資料最後都要將來源出處完整網址紀錄下來,並提供給最後紀錄者
+
 ## 【台股投資團隊全 Skill 清單】
 1. taiwan_stock_investment_orchestrator → orchestrator
 2. taiwan_market_analysis → 本 profile（核心）
